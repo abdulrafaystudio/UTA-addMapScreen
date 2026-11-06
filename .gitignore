@@ -31,6 +31,7 @@ local.properties
 *.iml
 *.hprof
 .cxx/
+temp_auto_push.bat
 *.keystore
 !debug.keystore
 
@@ -65,4 +66,4 @@ yarn-error.log
 # testing
 /coverage
 .gitignore
-config.bat
+branch_structure.json
